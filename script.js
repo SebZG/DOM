@@ -1,0 +1,11 @@
+document.getElementsByTagName("li");
+document.getElementsByClassName(".item");
+document.getElementById("list");
+document.querySelectorAll("li");
+document.querySelector("li a").style.color = "red";
+document.querySelector("h1").classList.add("huge");
+document.querySelector("h1").innerHTML;
+document.querySelector("h1").textContent;
+document.querySelector("a").attributes;
+document.querySelector("a").getAttribute("href");
+document.querySelector("a").setAttribute("href", "https://www.yahoo.com");
